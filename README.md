@@ -7,11 +7,11 @@ To complete this homework you should
 3. Create a new file called `FIRSTNAME_LASTNAME.md`
    - For example, if your name is Joe Smith then call your file `JOE_SMITH.md`
 4. In this file, write an introduction yourself. You should include:
-   1. davood
-   2. football
+   1. Davood moradi
+   2. Football 
    3. kabab
-   4. A link to a video of your favourite music
-   5. An interesting fact about yourself - impress us!
+   4. https://youtu.be/qBajAcoksfQ
+   5. I'm tall
 5. `Commit` the file to your repository
 6. `Push` the file to Github
 7. Open a `Pull Request` to this repository
